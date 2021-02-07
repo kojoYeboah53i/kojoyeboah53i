@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+
+[<img align="left" style="margin-right: 18px" width="18px" height="18px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/facebook-brands.png" />](https://web.facebook.com/kojo53i/)
+
+[<img align="left" style="margin-right: 18px" width="15.75px" height="18px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/linkedin-in-brands.png" />](https://www.linkedin.com/in/isaac-yeboah-626b821ab/)
+
+[<img align="left" style="margin-right:18px" width="15.75px" height="18px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/instagram-brands.png" />](https://www.instagram.com/josephakayesi/)
+
