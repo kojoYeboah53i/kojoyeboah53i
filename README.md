@@ -1,6 +1,8 @@
 ### Hi there 👋
  🌱 I’m currently learning laravel php framework...
- <img src="git.jpg" width ="400" height="800" alt="Isaac">
+<div style="postion: absolute; top:100; left:0;">
+ <img src="git.jpg" alt="Isaac">
+ <div>
 <!--
 **kojoYeboah53i/kojoyeboah53i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
