@@ -1,13 +1,40 @@
-### Kojo Yeboah 👋
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
 
-###  📫 How to reach me:
+## &#x1f4c8; GitHub Stats
 
 
-[<img align="left" style="margin-right: 8px" width="38px" height="28px; margin-top: 10px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/facebook-brands.png" />](https://web.facebook.com/kojo53i/)
 
-[<img align="left" style="margin-right: 18px" width="45.75px" height="38px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/linkedin-in-brands.png" />](https://www.linkedin.com/in/isaac-yeboah-626b821ab/)
+<a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
+</a> 
 
-[<img align="left" style="margin-right:18px" width="45.75px" height="38px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/instagram-brands.png" />](https://www.instagram.com/kojoyeboah53i/)
+  
+  <a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
+
+## 🤔 Currently?
+
+- 🔭 I’m currently working on Facility Management
+- 🌱 I’m currently learning Golang & Flutter
+- 👯 I’m looking to collaborate on any good OpenSource
+- 🤔 I’m looking for help with GraphQL on Golang
+- 💬 Ask me about Unix 
+- 📫 How to reach me: +233243314679
+- ⚡ Fun fact: Am an avid swimmer.
