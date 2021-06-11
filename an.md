@@ -27,8 +27,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aximilli1212&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/aframson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aframson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+<a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
 </a> 
 
 ## 🤔 Currently?
