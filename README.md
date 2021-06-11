@@ -1,13 +1,6 @@
 ### Kojo Yeboah 👋
-<div style="postion: absolute; top:100; left:0; ">
- <img src="git.jpg" width="auto" height="400"alt="Isaac">
- </div>
 
- <div style="postion: absolute; top:600; left:60%;">
 
- 🌱 I love the feeling I get when I look at my work after several months,<br>   it's almost feels as if I wasn't the one who wrote it.
-      The creativity is truly beautiful
- </div>
 
 ###  📫 How to reach me:
 
