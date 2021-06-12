@@ -20,8 +20,8 @@
 </a> 
 
   
-  <a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="https://github.com/aframson/aframson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aframson&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
