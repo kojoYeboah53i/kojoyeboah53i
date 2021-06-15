@@ -11,19 +11,28 @@
 
 
 
+#### Tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br/>
+<br/>
 ## &#x1f4c8; GitHub Stats
 
-
-
-<a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
-</a> 
+<br/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=kojoyeboah53i&theme=dracula" />
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 
   
-  <a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephakayesi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kojoyeboah53i">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
-
 
 
 ###  📫 How to reach me:
