@@ -21,7 +21,7 @@
 
   
   <a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williano&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norris1z&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
