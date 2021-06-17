@@ -28,8 +28,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-<a href="https://github.com/kojoyeboah53i/kojoyeboah53i" style="position: fixed; left: 0;">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+<a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!--<br/>
