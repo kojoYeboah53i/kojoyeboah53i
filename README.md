@@ -23,9 +23,9 @@
 
 Reach out to me at...
 
-<!-- <a href="https://twitter.com/_iamEtornam">
-  <img align="left" alt="Etornam's Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
-</a>-->
+ <a href="https://twitter.com/_iamEtornam">
+  <img align="left" alt="Isaac's Gmail" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" />
+</a>
 <a href="https://bit.ly/3iyxOl8"> 
   <img align="left" alt="Isaac's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -33,10 +33,7 @@ Reach out to me at...
   <img align="left" alt='Isaac's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
 </a>
 <br/>
-<br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=RegNex&theme=dracula" />
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RegNex&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+
 
 
 #### Tools
