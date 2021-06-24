@@ -20,6 +20,25 @@
 
 [<img align="left" style="margin-right:18px" width="45.75px" height="38px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/instagram-brands.png" />](https://www.instagram.com/kojoyeboah53i/)
 
+
+Reach out to me at...
+
+<!-- <a href="https://twitter.com/_iamEtornam">
+  <img align="left" alt="Etornam's Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
+</a>-->
+<a href="https://bit.ly/3iyxOl8"> 
+  <img align="left" alt="Isaac's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+</a>
+</a><a href="https://bit.ly/2NVdwV1">
+  <img align="left" alt='Isaac's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
+</a>
+<br/>
+<br/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=RegNex&theme=dracula" />
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RegNex&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+
+
 #### Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
