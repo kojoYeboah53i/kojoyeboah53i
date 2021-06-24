@@ -2,6 +2,7 @@
 <br/>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Kojoyeboah53i&label=Views&color=blue&style=plastic" alt="Kojoyeboah53i" /> </a>
 <br>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
