@@ -1,7 +1,6 @@
-### Hi there, <img src="./wave.gif" width="30px">
+### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=Kojoyeboah53i&label=Views&color=blue&style=plastic" alt="Kojoyeboah53i" /> </a>
-<br>
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -11,6 +10,8 @@
 ![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=jquery.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=Kojoyeboah53i&label=Views&color=blue&style=plastic" alt="Kojoyeboah53i" /> </a>
+<br>
 
 ###  📫 How to reach me:
 
@@ -48,7 +49,7 @@ Reach out to me at...
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 <a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboa53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!--<br/>
