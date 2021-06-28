@@ -49,7 +49,7 @@ Reach out to me at...
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 <a href="https://github.com/kojoyeboah53i/kojoyeboah53i">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide=java,html&theme=dracula" />
 </a>
 
 <br/>
