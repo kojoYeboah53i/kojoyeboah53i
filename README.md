@@ -52,6 +52,9 @@ Reach out to me at...
 <br/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kojoyeboah53i&theme=dracula" />
 <br/>
+   <a href="https://github.com/kojoyeboah53i">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+</a>
 
 
 
