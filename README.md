@@ -1,6 +1,9 @@
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
-
+I love all things related to computer engineering and programming, I do it for the love but then again why not
+If u was privilage to be born into this century then it's your moral responsibility to improve upon today's computer technology for tomorrow's generation
+We may not be able to invent time travel but we can certainly lay the ground work for those who would.
+<br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -23,17 +26,10 @@
 [<img align="left" style="margin-right:18px" width="45.75px" height="38px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/instagram-brands.png" />](https://www.instagram.com/kojoyeboah53i/) -->
 
 
-Reach out to me at...
-
- <!-- <a href="https://twitter.com/_iamEtornam">
-  <img align="left" alt="Isaac's Gmail" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" /> -->
-<!-- </a> -->
 <a href="https://www.linkedin.com/in/isaac-yeboah-626b821ab"> 
   <img align="left" alt="Isaac's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
-</a><a href="https://web.facebook.com/kojo53i/">
-  <img align="left" alt='Isaac's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
-</a>
+
 <br/>
 
 
