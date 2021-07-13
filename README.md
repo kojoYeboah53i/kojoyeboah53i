@@ -1,7 +1,7 @@
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
 
-- 🔭 I’m currently working on intefacing IOT with machne deep learning AI algorithms
+- 🔭 I’m currently working on intefacing IOT with deep learning AI
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on machine learning with Tensorflow
 - 🤔 I’m looking for help with machine learning Tensorflow
@@ -13,14 +13,6 @@
 
 
 ###  📫 How to reach me:
-
-<!-- 
-[<img align="left" style="margin-right: 8px; color: pink; " width="38px" height="28px; margin-top: 10px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/facebook-brands.png" />](https://web.facebook.com/kojo53i/)
-
-[<img align="left" style="margin-right: 18px" width="45.75px" height="38px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/linkedin-in-brands.png" />](https://www.linkedin.com/in/isaac-yeboah-626b821ab/)
-
-[<img align="left" style="margin-right:18px" width="45.75px" height="38px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/instagram-brands.png" />](https://www.instagram.com/kojoyeboah53i/) -->
-
 
 <a href="https://www.linkedin.com/in/isaac-yeboah-626b821ab">  
   <img align="left" alt="Isaac's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
@@ -57,9 +49,7 @@
 <br/>
 <br/>
 
-   <a href="https://github.com/kojoyeboah53i">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&layout=compact&theme=dracula&count_private=true&langs_count=10" />
-</a>
+
 
 
 
