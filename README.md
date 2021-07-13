@@ -1,7 +1,7 @@
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
-I love all things related to computer engineering and programming, I do it for the love but then again why not
-If u was privilage to be born into this century then it's your moral responsibility to improve upon today's computer technology for tomorrow's generation
+I love all things related to computer engineering and programming, I do it for the love but then again why not <br/>
+If u was privilage to be born into this century then it's your moral responsibility to <br> improve upon today's computer technology for tomorrow's generation <br/>
 We may not be able to invent time travel but we can certainly lay the ground work for those who would.
 <br/>
 
