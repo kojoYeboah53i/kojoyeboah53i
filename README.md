@@ -1,12 +1,12 @@
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
-
+<!--
 - 🔭 I’m currently working on intefacing IOT with deep learning AI
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on machine learning with Tensorflow
 - 🤔 I’m looking for help with machine learning Tensorflow
 - 💬 Ask me about C++
-
+-->
 
 
 <br/>
