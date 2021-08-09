@@ -44,8 +44,11 @@
 <br/>
 
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-<img align="left" width="800px" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide_title=false&layout=compact&theme=dracula&count_private=true" />
+
 <br/>
+<a>
+<img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide_title=false&layout=compact&theme=dracula&count_private=true" />
+</a>
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kojoyeboah53i&theme=dracula" />
 <br/>
