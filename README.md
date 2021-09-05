@@ -1,6 +1,16 @@
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
+<img align="right" width="384" height="480"  src="./jarvis.gif" >  
+
+
 <!--
+
+<a href="#">
+<img src="https://komarev.com/ghpvc/?username=kojoyeboah53i&label=Views&color=blue&style=plastic" alt="kojoyeboah53i"  />
+</a>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+
+
 - 🔭 I’m currently working on intefacing IOT with deep learning AI
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on machine learning with Tensorflow
