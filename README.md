@@ -1,6 +1,9 @@
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
-<img align="right" width="384" height="480"  src="./jarvis.gif" >  
+    <div align="right">
+        <h1>Jarvis, my assistent</h1>
+    </div> <br>
+<img align="right" width="324" height="400"  src="./jarvis.gif" >  
 
 
 <!--
@@ -8,7 +11,7 @@
 <a href="#">
 <img src="https://komarev.com/ghpvc/?username=kojoyeboah53i&label=Views&color=blue&style=plastic" alt="kojoyeboah53i"  />
 </a>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+
 
 
 - 🔭 I’m currently working on intefacing IOT with deep learning AI
@@ -51,10 +54,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
-<br/>
 
+ <div align="left">
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-
+</div>
 <br/>
 <!-- <a>
 <img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide_title=false&layout=compact&theme=dracula&count_private=true" />
