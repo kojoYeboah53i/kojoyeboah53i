@@ -1,9 +1,6 @@
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
-    <div align="right">
-        <h1>Jarvis, my assistent</h1>
-    </div> <br>
-<img align="right" width="324" height="400"  src="./jarvis.gif" >  
+ 
 
 
 <!--
