@@ -1,21 +1,16 @@
-### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
+<img src="./banner.png" alt="" srcset="">
+<br>
+
+# Hi,  I'm Isaac Yeboah <img src="./wave.gif" width="30px">
 <br/>
  
-
+## Fullstack developer, all things javascript <br> and everything in between
 
 <!--
 
 <a href="#">
 <img src="https://komarev.com/ghpvc/?username=kojoyeboah53i&label=Views&color=blue&style=plastic" alt="kojoyeboah53i"  />
 </a>
-
-
-
-- 🔭 I’m currently working on intefacing IOT with deep learning AI
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on machine learning with Tensorflow
-- 🤔 I’m looking for help with machine learning Tensorflow
-- 💬 Ask me about C++
 -->
 
 
