@@ -1,7 +1,7 @@
 <img src="./banner.png" alt="" srcset="">
 <br>
 
-# Hi,  I'm Isaac Yeboah <img src="./wave.gif" width="30px">
+# Hi,  I'm Isaac Yeboah <img src="./flag-of-ghana.svg" width="70px" align="center">
 <br/>
  
 ## Fullstack developer, all things javascript <br> and everything in between
