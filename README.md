@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=kojoyeboah53i&label=Views&color=blue&style=plastic" alt="kojoyeboah53i"  />
 </a>
 
-
+![](https://komarev.com/ghpvc/?username=abass-dev&color=dc143c)
 
 <br/>
 
