@@ -6,11 +6,11 @@
  
 - Fullstack developer, all things javascript <br> and everything in between
 
-
+<!-- 
 
 <a href="#">
 <img src="https://komarev.com/ghpvc/?username=kojoyeboah53i&label=Views&color=blue&style=plastic" alt="kojoyeboah53i"  />
-</a>
+</a> -->
 
 ![](https://komarev.com/ghpvc/?username=kojoyeboah53i&color=dc143c)
 
