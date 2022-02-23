@@ -4,25 +4,9 @@
 # Hi,  I'm Isaac Yeboah <img src="./flag-of-ghana.svg" width="70px" align="center">
 <br/>
  
-- Fullstack developer, all things javascript <br> and everything in between
-
-<!-- 
-
-<a href="#">
-<img src="https://komarev.com/ghpvc/?username=kojoyeboah53i&label=Views&color=blue&style=plastic" alt="kojoyeboah53i"  />
-</a> -->
-
-![](https://komarev.com/ghpvc/?username=kojoyeboah53i&color=9c55bc)
-
-<br/>
+## Fullstack developer, all things javascript <br> and everything in between
 
 
-###  📫 How to reach me:
-
-<a href="https://www.linkedin.com/in/isaac-yeboah-626b821ab">  
-  <img align="left" alt="Isaac's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
-</a>
-<br/>
 
 <br/>
 
